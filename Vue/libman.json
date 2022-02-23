@@ -1,0 +1,11 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "provider": "unpkg",
+      "library": "vuetify@2.6.3",
+      "destination": "wwwroot/lib/vuetify/"
+    }
+  ]
+}
